@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\PhysioLink\\PhysioLink\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\PhysioLink.styles.css",
+      "PackagePath": "staticwebassets\\PhysioLink.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\PhysioLink\\PhysioLink\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\PhysioLink\\PhysioLink\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\PhysioLink\\PhysioLink\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\PhysioLink\\PhysioLink\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\PhysioLink\\PhysioLink\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.PhysioLink.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.PhysioLink.props",
+      "PackagePath": "build\\PhysioLink.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.PhysioLink.props",
+      "PackagePath": "buildMultiTargeting\\PhysioLink.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.PhysioLink.props",
+      "PackagePath": "buildTransitive\\PhysioLink.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
