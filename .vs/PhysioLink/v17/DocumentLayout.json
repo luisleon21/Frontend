@@ -1,10 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\PhysioLink\\",
+  "WorkspaceRootPath": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\physiolink\\physiolink\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\usuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\usuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\registro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\registro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\pageprueba.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\pageprueba.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\paciente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\paciente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\medicion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\medicion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\doctor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\doctor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\cuenta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\cuenta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\alertas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\alertas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\services\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\services\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\physiolink-tesisluisleon\\frontend\\physiolink\\components\\services\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAEFF71-43B6-4AF5-AAD8-07215A9F5C0C}|PhysioLink\\PhysioLink.csproj|solutionrelative:physiolink\\components\\services\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +82,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 18,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Login.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:36:35.952Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -49,21 +131,222 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPassword.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\ResetPassword.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\ResetPassword.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\ResetPassword.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\ResetPassword.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:38:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cuenta.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Cuenta.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Cuenta.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Cuenta.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Cuenta.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:37:44.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Paciente.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Paciente.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Paciente.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Paciente.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Paciente.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:37:26.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Doctor.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Doctor.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Doctor.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Doctor.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:37:19.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T03:51:33.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagePrueba.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\PagePrueba.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\PagePrueba.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\PagePrueba.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\PagePrueba.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T02:19:11.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registro.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Registro.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Registro.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Registro.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Registro.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:37:53.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Usuario.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Usuario.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Usuario.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Usuario.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:39:05.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "PhysioLink\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\MauiProgram.cs",
+              "RelativeToolTip": "PhysioLink\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:30:07.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\PhysioLink\\PhysioLink\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\PhysioLink\\PhysioLink\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-03T03:51:33.578Z",
+              "WhenOpened": "2024-03-08T02:19:40.323Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Alertas.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Alertas.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Alertas.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Alertas.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Alertas.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:38:38.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Medicion.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Medicion.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Medicion.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Medicion.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Medicion.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:39:36.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T02:17:57.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Services\\ServerConfig.cs",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Services\\ServerConfig.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Services\\ServerConfig.cs",
+              "RelativeToolTip": "PhysioLink\\Components\\Services\\ServerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:46:57.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Services\\test.cs",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Services\\test.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Services\\test.cs",
+              "RelativeToolTip": "PhysioLink\\Components\\Services\\test.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vyMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:01:06.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\appsettings.json",
+              "RelativeDocumentMoniker": "PhysioLink\\appsettings.json",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\appsettings.json",
+              "RelativeToolTip": "PhysioLink\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T02:28:01.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "PhysioLink\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\PhysioLink-TesisLuisLeon\\Frontend\\PhysioLink\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "PhysioLink\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T02:17:58.665Z"
             }
           ]
         },
